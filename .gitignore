@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#pycharm User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+#tensflor data to create bullneck
+*.jpg
+inception
+tf_files
+
 # C extensions
 *.so
 
